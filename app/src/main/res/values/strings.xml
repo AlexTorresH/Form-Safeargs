@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Communication_2_Fragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_first_fragment">Hola, ingresa tus datos para pasar</string>
+    <string name="hello_second_fragment">Estos son tus datos</string>
+</resources>
